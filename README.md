@@ -1,6 +1,6 @@
 # CloudHaven
 
-CloudHaven is open collaborative platform, with a common user-base, for dynamically building and hosting applications that are a composite of components from any organization.
+CloudHaven is an open collaborative platform, with a common user-base, for dynamically building and hosting applications that are a composite of components from any organization.
 
 The backbone of CloudHaven is an engine that dynamically renders Vue from a json-like text blob. This "json" defines the dataModel, lifecycle events, methods, computed, watches and filters; it can be used to define whole applications, components or mixins.
 
