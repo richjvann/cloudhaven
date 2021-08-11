@@ -16,7 +16,7 @@ The Universal Application Portal is comprised of a Vue-based single page app and
 
 The MIT-licensed public repository for the SPA client is at https://github.com/richjvann/cloudhaven-client.
 
-The MIT-licensed public repository for the REST server is at https://github.com/richjvann/cloudhaven-rest.
+The MIT-licensed public repository for the REST server is at https://github.com/richjvann/cloudhaven-server.
 
 ** NOTE ** The CloudHaven team is very interested in finding additional developers to contribute to this Universal Application Portal project and those that do have an opportunity to take a substantial leadership role in this project.
 
