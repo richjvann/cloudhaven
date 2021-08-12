@@ -6,6 +6,8 @@ The backbone of CloudHaven is an engine that dynamically renders Vue from a json
 
 CloudHaven also features common messaging, workflow and calendar functionality with the unique feature that CloudHaven hosted applications can be seamlessly embedded directly in the content (message, task, event, respectively).
 
+There is a bigger picture to this model - In software engineering terms, the "user entity" (authentication, user management, user data/files, user collaboration: messaging, workflow, calendar and even low level UI presentation - all of which are redundantly implemented in thousands of applications - is extracted and consolidated into a single entity under the users' control. This has tremendous economies of scale and implications on personal data privacy.
+
 For a full description of cloudhaven goto https://www.cloudhaven.net.
 
 For a test drive goto https://system.cloudhaven.net.
